@@ -38,4 +38,4 @@ If our data practices ever change, this policy will be updated with a new effect
 ## Contact
 
 If you have any questions about this Privacy Policy, you may contact the developer at:
-naushadali251100@gmail.com
+naushad.ali.dev@gmail.com
